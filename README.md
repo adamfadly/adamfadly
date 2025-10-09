@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mocha Adam Fadly</h1>
-<h3 align="center">⚽️ Former footballer turned front-end developer 🧑🏻‍💻</h3>
+<h3 align="center">⚽️ Former footballer turned fullstack developer 🧑🏻‍💻</h3>
 
 - 🌱 I’m currently learning **NEXT.JS**
 
